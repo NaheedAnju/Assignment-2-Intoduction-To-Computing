@@ -1,0 +1,41 @@
+Python 3.7.4 (tags/v3.7.4:e09359112e, Jul  8 2019, 19:29:22) [MSC v.1916 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:\Users\HP\AppData\Local\Programs\Python\Python37-32\PEC Practical.py 
+-------------------------Question 1-------------------------
+Length of string =  35
+Reverse string :  egaugnal evitisnes esac a si nohtyP
+a case sensitive
+Python is object oriented language
+Index of a  10
+Pythonisacasesensitivelanguage
+-------------------------Question 2-------------------------
+Enter your name - Naheed Anjum
+Enter your SID - 21104002
+Enter your Department - Electrical
+Enter your CGPA - 9
+Hey  Naheed Anjum  here!
+My SID is  21104002
+I am from  Electrical  department and my CGPA is  9.0
+-------------------------Question 3-------------------------
+a&b=  8
+a|b = 58
+a^b = 50
+Left shift of a with 2 bits =  224
+Left shift of b with 2 bits =  40
+Right shift of a with 2 bits =  14
+Right shift of b with 4 bits =  0
+-------------------------Question 4-------------------------
+Enter 1st Number - 456
+Enter 2nd Number - 789
+Enter 3rd Number - 562
+789 is greatest number
+-------------------------Question 5-------------------------
+Enter a string - my name is Naheed Anjum
+Yes
+-------------------------Question 6-------------------------
+Enter length of 1st side - 10
+Enter length of 2nd side - 6
+Enter length of 3rd side - 5
+Yes
+>>> 
