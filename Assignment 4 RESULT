@@ -1,0 +1,56 @@
+>>> 
+ RESTART: C:\Users\HP\AppData\Local\Programs\Python\Python37-32\PEC Practical.py 
+-------------------------Question 1-------------------------
+Move disk 1 from source A to destination C
+Move disk 2 from source A to destination B
+Move disk 1 from source C to destination B
+Move disk 3 from source A to destination C
+Move disk 1 from source B to destination A
+Move disk 2 from source B to destination C
+Move disk 1 from source A to destination C
+Move disk 4 from source A to destination B
+Move disk 1 from source C to destination B
+Move disk 2 from source C to destination A
+Move disk 1 from source B to destination A
+Move disk 3 from source C to destination B
+Move disk 1 from source A to destination C
+Move disk 2 from source A to destination B
+Move disk 1 from source C to destination B
+-------------------------Question 2-------------------------
+Enter number of rows: 5
+    1 
+   1 1 
+  1 2 1 
+ 1 3 3 1 
+1 4 6 4 1 
+Enter rows: 5
+[1]
+[1, 1]
+[1, 2, 1]
+[1, 3, 3, 1]
+[1, 4, 6, 4, 1]
+-------------------------Question 3-------------------------
+Enter 1st number: 77
+Enter 2nd number: 25
+(3, 2)
+False
+Values are nonzeros
+values greater than 4 : [5, 6]
+{5, 6}
+New immutable set  frozenset({5, 6})
+Maximum value in set is  6
+The hash value of set is , -346404302
+-------------------------Question 4-------------------------
+Name =Naheed Anjum
+Rollnumber = 21104002
+-------------------------Question 5-------------------------
+1 Mehak 40000 
+2 Ashok 50000 
+3 Viren 60000 
+Updated details of Mehak: 1 Mehak 70000 
+-------------------------Question 6-------------------------
+Enter word said by George :qwertyuiop
+Word spoken by George: qwertyuiop
+Word formed by Barbie:rtioewrt
+Barbie is a good friend
+>>> 
